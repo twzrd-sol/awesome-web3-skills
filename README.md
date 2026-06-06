@@ -200,6 +200,19 @@ Inspired by [awesome-uniswap-hooks](https://github.com/fewwwww/awesome-uniswap-h
 
 ---
 
+#### [TWZRD Agent Intel](https://intel.twzrd.xyz)
+> Trust-scoring MCP server for x402 agents on Solana. Preflight reputation checks + signed USDC trust receipts for agent-to-agent transactions.
+
+**Modules / Capabilities:**
+- `Trust Preflight` — free reputation score for any Solana agent wallet before transacting
+- `Signed Trust Receipt` — signed on-chain USDC trust receipt, settled in <1s via x402
+- `MCP Server` — Streamable-HTTP at `https://intel.twzrd.xyz/mcp`, no auth needed for free tier
+
+**Access:** MCP (Streamable-HTTP) · Free preflight · Paid receipt via x402  
+**Works with:** Claude Code, any MCP-compatible agent framework
+
+---
+
 ## CeFi Skills
 
 ### [Binance Skills Hub](https://github.com/binance/binance-skills-hub)
